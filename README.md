@@ -31,13 +31,13 @@ I am **[`Parangg`]**, a Computer Science student and aspiring hacker and bug hun
 
 <h2 id="present_status"> Present Status </h3>
 
-<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
+<img width="20%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
 👉 CS Student
 
 👉 Learning Bug hunting
 
-<br><br>
+<br>
 
 ---
 
@@ -65,4 +65,5 @@ I am **[`Parangg`]**, a Computer Science student and aspiring hacker and bug hun
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
   </div>
 </div>
+<br>
 
