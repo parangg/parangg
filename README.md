@@ -37,11 +37,6 @@ I am **[`Parangg`]**, a Computer Science student and aspiring hacker and bug hun
 
 👉 Learning Bug hunting
 
-👉 Building & Contributing To Open Source Projects
-
-
-`Updating:`  Journey to Cybersecurity Specialist.
-
 ---
 
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
