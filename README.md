@@ -14,7 +14,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I am **[`Parangg`]**, a Computer Science student and aspiring hacker and bug hunter. I have a strong passion for technology and proficiency in different programming languages ​​such as Python, PHP, HTML, Javascript and more. I am currently studying hacking methods and participating in different bug bounty programs
+I am **`Parangg`**, a Computer Science student and aspiring hacker and bug hunter. I have a strong passion for technology and proficiency in different programming languages ​​such as Python, PHP, HTML, Javascript and more. I am currently studying hacking methods and participating in different bug bounty programs
 
 
 <details>
